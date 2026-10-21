@@ -36,9 +36,9 @@ Training may take substantial time depending on available hardware.
 
 ## Limitations
 
-This is a computationally reduced reproduction rather than an exact replication of the original experiments. The dataset is smaller, the convolutional architectures are approximations, and the corruption grid is reduced.
+This is a computationally reduced reproduction rather than an exact replication of original experiments. The dataset is smaller, the convolutional architectures are approximations, and the corruption grid is reduced.
 
-Some convolutional experiments did not reach the convergence threshold within the training budget. These results are retained and discussed in the accompanying report rather than replaced with fabricated convergence times.
+Some convolutional experiments did not reach the convergence threshold within the training budget. These results are reported in the accompanying report rather than replaced with fabricated convergence times.
 
 ## Reference
 
